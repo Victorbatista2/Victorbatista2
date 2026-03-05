@@ -36,7 +36,7 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
-<img src="https://img.icons8.com/color/48/automation.png" width="40"/>
+<img src="assets/n8n.svg" width="40"/>
 
 </p>
 
@@ -63,16 +63,16 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 ---
 
-# 📫 Contact
+# Contact
 
 <p align="left">
 
-<a href="[SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/victor-giannoni-batista)">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+<a href="[https://www.linkedin.com/in/victor-giannoni-batista]">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
 </a>
 
 <a href="mailto:vitorbg012@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
 </a>
 
 </p>
