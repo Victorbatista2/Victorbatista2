@@ -6,14 +6,10 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de **Sistemas de Informação na Faculdade Impacta de Tecnologia**. Possuo experiência em **análise de dados, geração de relatórios e criação de dashboards** utilizando **Python, Power BI e Tableau**, além de conhecimentos em **SQL, MySQL, PostgreSQL, Data Warehouse e ETL**.
-
-Tenho experiência com **automação de processos utilizando n8n**, voltada para otimização e produtividade. Também possuo conhecimentos no **desenvolvimento de aplicações utilizando TypeScript, JavaScript e Node.js**, integração com APIs externas e manipulação de dados.
-
+Sou estudante de **Sistemas de Informação na Faculdade Impacta de Tecnologia**. Possuo experiência em **análise de dados, geração de relatórios e criação de dashboards** utilizando **Python, Power BI e Tableau**, além de conhecimentos em **SQL, MySQL, PostgreSQL e ETL**.
+Tenho experiência com **automação de processos utilizando n8n**, voltada para otimização e produtividade. Também possuo conhecimentos no **desenvolvimento de aplicações utilizando, JavaScript e Node.js**, integração com APIs externas e manipulação de dados.
 Possuo conhecimentos em **redes**, utilizo **Git/GitHub para versionamento** e tenho familiaridade com **conceitos de DevOps e computação em nuvem (AWS)**.
-
 Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
-
 🎯 Atualmente busco **oportunidade de estágio ou posição inicial em TI**, especialmente nas áreas de **Dados, Business Intelligence, Automação, Gestão de Projetos ou Suporte**, onde eu possa contribuir e evoluir profissionalmente.
 
 ---
