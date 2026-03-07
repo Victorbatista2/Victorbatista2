@@ -72,8 +72,8 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 <img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
 </a>
 
-<a href="mailto:vitorbg012@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
+<a href="https://mail.google.com/mail/?view=cm&to=vitorbg012@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
 </p>
