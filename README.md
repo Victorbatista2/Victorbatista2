@@ -54,7 +54,7 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 <p align="left">
 
-<a href="https://drive.google.com/file/d/SEU_ID_AQUI/view">
+<a href="https://drive.google.com/file/d/1hhhevVL9aTj2l3s18GVOdc00ED6DwiAN/view?usp=drive_link">
 <img src="https://img.icons8.com/color/48/resume.png" width="40"/>
 </a>
 
