@@ -80,12 +80,9 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victorbatista2&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorbatista2&layout=compact&theme=tokyonight" />
 </p>
