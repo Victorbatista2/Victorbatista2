@@ -55,7 +55,7 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 📎 Download my resume
 
-[Victor Giannoni Batista Resume](LINK_DO_SEU_PDF_AQUI)
+[Victor Giannoni Batista Resume]([LINK_DO_SEU_PDF_AQUI](https://drive.google.com/file/d/1hhhevVL9aTj2l3s18GVOdc00ED6DwiAN/view?usp=drive_link))
 
 ---
 
