@@ -50,13 +50,17 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 - GitHub
 
 ---
+## 📄 Resume
 
-# 📄 Resume
+<p align="left">
 
-📎 Download my resume
+<a href="https://drive.google.com/file/d/SEU_ID_AQUI/view">
+<img src="https://img.icons8.com/color/48/resume.png" width="40"/>
+</a>
 
-[Victor Giannoni Batista Resume]([LINK_DO_SEU_PDF_AQUI](https://drive.google.com/file/d/1hhhevVL9aTj2l3s18GVOdc00ED6DwiAN/view?usp=drive_link))
+</p>
 
+Click on the icon to view my resume.
 ---
 
 # Contact
