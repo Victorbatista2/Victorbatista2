@@ -68,7 +68,7 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/victor-giannoni-batista]">
+<a href="https://www.linkedin.com/in/victor-giannoni-batista">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
 </a>
 
