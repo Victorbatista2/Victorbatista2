@@ -90,12 +90,12 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
  style="padding-right: 10px;" 
  height="180em" 
 src="https://github-readme-stats-fast.vercel.app/api?username=Victorbatista2&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=60" />
-  
-  
-  
+   
 <img 
 align="left"
 alt="GitHub Stats"
 height="200"  
 height="180em" 
 src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Victorbatista2&layout=compact&theme=tokyonight&langs_count=9" />
+
+</p>
