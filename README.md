@@ -93,9 +93,9 @@ src="https://github-readme-stats-fast.vercel.app/api?username=Victorbatista2&sho
    
 <img 
 align="left"
-alt="GitHub Stats"
+alt="Top Languages"
 height="200"  
 height="180em" 
-src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Victorbatista2&layout=compact&theme=tokyonight&langs_count=9" />
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Victorbatista2&layout=compact&theme=tokyonight&langs_count=9&cache_seconds=60" />
 
 </p>
