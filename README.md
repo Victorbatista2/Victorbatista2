@@ -8,7 +8,7 @@ Possuo conhecimentos em **redes**, utilizo **Git/GitHub para versionamento** e t
 Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 🎯 Atualmente busco **oportunidade de estágio ou posição inicial em TI**, especialmente nas áreas de **Dados, Business Intelligence, Automação, Gestão de Projetos ou Suporte**, onde eu possa contribuir e evoluir profissionalmente.
 
-**Contact e Resume**
+**Contact e Curriculum**
 <p>
 <a href="https://www.linkedin.com/in/victor-giannoni-batista">
 <img 
