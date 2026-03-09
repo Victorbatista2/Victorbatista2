@@ -63,8 +63,8 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 <img 
     align="left" 
-    alt="Excel " 
-    title="Excel"
+    alt="Google Sheets " 
+    title="Google Sheets"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/google-sheets.png"
@@ -81,10 +81,10 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    height="30"
+    alt="n8n" 
+    title="n8n"
+    width="30px"
+    height="30px"
     style="padding-right: 10px;" 
     src="https://cdn.brandfetch.io/idO6_6uqJ9/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1763457415601"
 />
@@ -171,8 +171,8 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="AWS" 
+    title="AWS"
     width="30px"
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
