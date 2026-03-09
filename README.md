@@ -33,8 +33,8 @@ Além disso, possuo familiaridade com **Pacote Office e Google Workspace**.
 <img 
  width="40"
  style="padding-right: 10px;"
- alt="Resume" 
- title="Resume"
+ alt="Curriculum" 
+ title="Curriculum"
  src="https://img.icons8.com/color/48/resume.png"/>
 </a> 
 </p>
